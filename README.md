@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 
-- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/aksel-holm-jensen-bb0618161/)
+## 📫 How to reach me: 
+[![LinkedIn](https://www.linkedin.com/in/aksel-holm-jensen/)
 
 <!--
 **Alkes88/Alkes88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
