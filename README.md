@@ -15,9 +15,9 @@ Bachelor's Degree in Applied Datatechnology(Anvendt Datateknologi) at OsloMet - 
 
 ## Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Alkes88&show_icons=true&theme=dark&hide_border=true" width = 300>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alkes88&theme=dark&hide_border=true" width = 350>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Alkes88&show_icons=true&theme=dark&hide_border=true" width = 350>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alkes88&theme=dark&hide_border=true" width = 250>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alkes88&theme=dark&hide_border=true" width = 350>
 </p>
 
 <!--
