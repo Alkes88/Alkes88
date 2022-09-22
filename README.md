@@ -4,7 +4,7 @@
 
 - :house: Oslo, Norway
 
-- :speaking_head: Norwegian(native speaker) || English
+- :speaking_head: Norwegian(native speaker) && English
 
 ## **Currently:** :student:
 Bachelor's Degree in Applied Datatechnology(Anvendt Datateknologi) at OsloMet - storbyuniversitetet, Norway. To finish my degree summer 2023. 
