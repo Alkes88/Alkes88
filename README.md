@@ -1,3 +1,6 @@
+![7eltpk](https://user-images.githubusercontent.com/72759116/225403983-923e78c9-c854-42f7-9b1e-be56d9b5c6ca.gif)
+
+
 # Hi there 👋
 
 - :norway: :male_sign:
@@ -16,7 +19,6 @@ Bachelor's Degree in Applied Datatechnology(Anvendt Datateknologi) at OsloMet - 
 ## Stats
 <p align=center>
   <img src = "https://github-readme-stats.vercel.app/api?username=Alkes88&show_icons=true&theme=dark&hide_border=true" width = 350>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alkes88&theme=dark&hide_border=true" width = 250>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alkes88&theme=dark&hide_border=true" width = 350>
 </p>
 
