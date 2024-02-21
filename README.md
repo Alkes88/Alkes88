@@ -10,7 +10,8 @@
 - :speaking_head: Norwegian(native speaker) && English
 
 ## **Currently:** :student:
-Bachelor's Degree in Applied Datatechnology(Anvendt Datateknologi) at OsloMet - storbyuniversitetet, Norway. To finish my degree summer 2023. 
+Bachelor's Degree in Applied Datatechnology(Anvendt Datateknologi) at OsloMet - storbyuniversitetet, Norway. Finished: Summer 2023. 
+Masters Degree in InformationSecurity at UiO - Universitetet i Oslo. Expected to finish: summer 2025. 
 
 ## Libraries/Frameworks/IDEs I have dabbled in
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
