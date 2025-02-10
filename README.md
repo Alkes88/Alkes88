@@ -49,6 +49,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alkes88&layout=compact" width = 350>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Alkes88/Alkes88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
