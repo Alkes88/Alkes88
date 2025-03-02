@@ -21,22 +21,22 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         SHOW_OS: "False"
         SHOW_PROJECTS: "False"
-        API_BASE_URL: https://wakatime.com/api # optional
-        SHOW_TITLE: true # optional
-        SECTION_NAME: waka # optional
-        BLOCKS: -> # optional
-        TIME_RANGE: all_time # optional
-        LANG_COUNT: 10 # optional
-        SHOW_TIME: true # optional
-        SHOW_TOTAL: true # optional
-        SHOW_MASKED_TIME: false # optional
-        STOP_AT_OTHER: true # optional
-        IGNORED_LANGUAGES: YAML JSON TOML # optional
+        #API_BASE_URL: https://wakatime.com/api # optional
+        #SHOW_TITLE: true # optional
+        #SECTION_NAME: waka # optional
+        #BLOCKS: -> # optional
+        #TIME_RANGE: all_time # optional
+        #LANG_COUNT: 10 # optional
+        #SHOW_TIME: true # optional
+        #SHOW_TOTAL: true # optional
+        #SHOW_MASKED_TIME: false # optional
+        #STOP_AT_OTHER: true # optional
+        #IGNORED_LANGUAGES: YAML JSON TOML # optional
         ### commit
-        COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-        TARGET_BRANCH: master # optional
-        TARGET_PATH: README.md # optional
-        SHOW_LINES_OF_CODE: true
-        SHOW_TOTAL_CODE_TIME: true
-        SHOW_COMMIT: true
-        SHOW_LANGUAGE: true
+        #COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+        #TARGET_BRANCH: master # optional
+        #TARGET_PATH: README.md # optional
+        #SHOW_LINES_OF_CODE: true
+        #SHOW_TOTAL_CODE_TIME: true
+        #SHOW_COMMIT: true
+        #SHOW_LANGUAGE: true
