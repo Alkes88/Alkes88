@@ -50,11 +50,73 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2054%20mins-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 47.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+🌆 Daytime                90 commits          ██████████░░░░░░░░░░░░░░░   41.28 % 
+🌃 Evening                102 commits         ████████████░░░░░░░░░░░░░   46.79 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Wednesday                50 commits          ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Thursday                 42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Oslo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+HTML                     9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Alkes88/Alkes88/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/03/2025 12:04:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
