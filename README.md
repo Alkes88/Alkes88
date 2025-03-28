@@ -51,65 +51,30 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.2 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2025
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-🌆 Daytime                97 commits          ███████████░░░░░░░░░░░░░░   43.11 % 
-🌃 Evening                102 commits         ███████████░░░░░░░░░░░░░░   45.33 % 
-🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                50 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Oslo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-HTML                     9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Java                     10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -119,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alkes88/Alkes88/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 00:50:14 UTC
+ Last Updated on 28/03/2025 00:49:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
