@@ -96,11 +96,10 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   98.97 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +119,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alkes88/Alkes88/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 00:57:05 UTC
+ Last Updated on 20/05/2025 00:55:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
