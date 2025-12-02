@@ -44,11 +44,11 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-gray&?style=for-the-badge&color=gray&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aksel-holm-jensen/)
 
 ## Stats
-<p align=center>
+/*<p align=center>
   <img src = "https://github-readme-stats.vercel.app/api?username=Alkes88&show_icons=true&theme=dark&hide_border=true" width = 350>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alkes88&theme=dark&hide_border=true" width = 350>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alkes88&layout=compact" width = 350>
-</p>
+</p>*/
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2054%20mins-blue)
